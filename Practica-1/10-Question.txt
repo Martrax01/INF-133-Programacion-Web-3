@@ -1,0 +1,4 @@
+El callback es útil para eventos simples o temporizadores
+sencillos. La promesa es necesaria cuando manejas múltiples
+operaciones asíncronas consecutivas, porque evita el
+anidamiento profundo e inmanejable.
